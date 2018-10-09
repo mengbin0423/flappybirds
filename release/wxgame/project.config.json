@@ -1,0 +1,52 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"compileType": "game",
+	"libVersion": "2.2.0",
+	"appid": "wx9a3e815c90339707",
+	"projectname": "fb1.0.1",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "jieli",
+					"query": "uid=1000001&id=38&score=1&client=0&type=0"
+				},
+				{
+					"id": -1,
+					"name": "群排行",
+					"query": "uid=1000001&id=0&type=8&map=0"
+				},
+				{
+					"id": -1,
+					"name": "qun",
+					"query": "uid=1000001&id=0&type=8&map=0"
+				}
+			]
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
